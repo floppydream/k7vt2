@@ -1,0 +1,140 @@
+
+ ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+System Speed Test  Ver 4.78      Report file - created on 16-08-2024 20:44:45
+ ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+CPU is in V86 mode: Yes
+Processor         : AMD Athlon(tm)XP 2100+
+Frequency via TSC : 1733.02 MHz
+External clock    : 133.31 MHz x 13.0
+CPUID (TFMS)      : 0681  Codename: Thoroughbred(0.13)
+Feature           : 0383FBFFh  MMX(tm):Yes, IA SSE:Yes, IA SSE2:No
+Extended CPUID    : 0781  
+CPU Name String   : AMD Athlon(tm) XP 2100+
+Extended Feature  : C1C3FBFFh  3DNow!(tm):Yes, 3DNow! Extensions:Yes
+L1 Cache size     : 128 KB
+L2 Cache size     : 256 KB
+CPU speed index   : 2080.85
+
+Total memory size : 256 MB (DDR-SDRAM PC2100)
+
+AGP Video         : NVidia 
+Support AGP rate  : 1x, 2x, 4x
+AGP Operations    : Disabled
+AGP SBA           : Supported, Status: Disabled
+AGP Fast Writes   : Supported, Status: Disabled
+AGP Status Reg.   : 1F000217h
+AGP Command Reg.  : 00000000h
+
+VESA OEM String   : NVIDIA
+VESA video memory : 262144 KB (25948 KB/s)
+
+Hard drive 0      : 19457C 255H 63S 149.05 GB
+                  Tested in FAST mode
+                  Average/Max seek time  : 4.54 ms / 6.20 ms
+                  Random seek time       : 4.53 ms
+                  Track-to-track seek    : 1.02 ms
+                  Random access time     : 17.65 ms
+                  Linear verify speed    : 63556 KB/s
+                  Min/Max verify speed   : 43796 KB/s / 82131 KB/s
+                  Buffered read speed    : 3160 KB/s
+                  Hard Drive speed index : 1248.43
+
+Mainboard chipset : VIA KT266/A,KT333
+Mainboard model   : K7VT2
+BIOS vendor       : American Megatrends, Inc. (11/10/03)
+OS version        : MS-DOS 7.10
+ ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+                ATA/ATAPI Device Information
+
+IDE0ÄÂÄMasterÄ<ATA-8>Ä HITACHI HTS723216L9SA60
+     ³     Cylinders: 16709, Heads: 255, Sectors: 63 (128.00 GB)
+     ³     Serial Number                 : 091020FC1220NCJ3AUYG
+     ³     Firmware Revision             : FC2ZC50B
+     ³     Maximum Transfer Mode         : PIO 4, DMA 2, UDMA 5 (ATA-100)
+     ³     Selected DMA Transfer Mode    : DMA 2
+     ³     Cache Buffer Size             : 15058 KB 
+     ³
+     ÀÄSlaveÄÄ<Empty>
+
+IDE1ÄÂÄMasterÄ<Empty>
+     ³
+     ÀÄSlaveÄÄ<Empty>
+
+IDE2ÄÂÄMasterÄ<Empty>
+     ³
+     ÀÄSlaveÄÄ<Empty>
+
+IDE3ÄÂÄMasterÄ<Empty>
+     ³
+     ÀÄSlaveÄÄ<Empty>
+ ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+                Memory Modules Information
+
+           SMBus/i2c Host Controller     : VIA VT8233A, I/O: 0400h
+
+<Slot 0>
+    ÀÄÄÄÄÄ SPD-EEPROM Checksum           : OK
+           Memory Module Size            : 256 MB
+           Memory Type                   : DDR-SDRAM PC2100
+           Technology                    : 16x[16Mx8], 128 Mbit
+           SDRAM Cycle time       (tCYC) : 7.5ns (133 MHz)
+           Supported CAS# Latency        : 2.5 (up to 133 MHz)
+           Supported CAS# Latency        : 2 (up to 100 MHz)
+           Min. Row Precharge Time (tRP) : 20.0ns (2T up to 100 MHz)
+           Min. RAS to CAS Delay  (tRCD) : 20.0ns (2T up to 100 MHz)
+           Min. RAS Pulse Width   (tRAS) : 45ns (5T up to 111 MHz)
+           Label                         : PC2100U-25330
+           Manufacturer                  : Samsung
+           Manufacturer's Part Number    : M3 68L3313BT1-CB0
+           Serial Number                 : 286F4803
+ ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+                PCI/AGP Device Information  [PCI 2.10, AGP 2.0 (4x)]
+
+[00-00-0]
+    ÀÄÄÄÄÄ VEN_1106, DEV_3099, REV_00, SUBSYS_30991849
+           VIA Tech VT8366/A,VT8367 Apollo KT266/A,KT333 CPU to PCI Bridge
+           Class Code : 060000 - PCI to Host Bridge
+           Memory Base Range 0           : E0000000 - E3FFFFFF (64MB)
+[00-01-0]
+    ÀÄÄÄÄÄ VEN_1106, DEV_B099, REV_00
+           VIA Tech VT8366/A,VT8367 Apollo KT266/A,KT333 PCI to AGP Bridge
+           Class Code : 060400 - PCI to PCI Bridge
+[00-13-0]
+    ÀÄÄÄÄÄ VEN_1102, DEV_0002, REV_04, SUBSYS_00201102
+           Creative Labs CT4850 SBLive! Value Digital Audio
+           Class Code : 040100 - Multimedia Audio Adapter
+           I/O Base Range 0              : E800 - E81F (32)
+[00-13-1]
+    ÀÄÄÄÄÄ VEN_1102, DEV_7002, REV_01, SUBSYS_00201102
+           Creative Labs SBLive!, Multimedia Interface
+           Class Code : 098000 - Other Input Device
+           I/O Base Range 0              : 0200 - 0207 (8)
+[00-17-0]
+    ÀÄÄÄÄÄ VEN_1106, DEV_3177, REV_00, SUBSYS_31771849
+           VIA Tech VT8233A/VT8235 PCI to ISA Bridge
+           Class Code : 060100 - PCI to ISA Bridge
+[00-17-1]
+    ÀÄÄÄÄÄ VEN_1106, DEV_0571, REV_06, SUBSYS_05711849
+           VIA Tech VT82C586/B,VT82C686A/B,VT8233/A EIDE Controller
+           Class Code : 01018A - IDE Controller
+           I/O Base Range 4              : FC00 - FC0F (16)
+[00-18-0]
+    ÀÄÄÄÄÄ VEN_1106, DEV_3065, REV_74, SUBSYS_30651849
+           VIA Tech VT8233 Fast Ethernet Adapter
+           Class Code : 020000 - Ethernet Adapter
+           I/O Base Range 0              : E400 - E4FF (256)
+           Memory Base Range 1           : DFFFFF00 - DFFFFFFF (256)
+[01-00-0]
+    ÀÄÄÄÄÄ VEN_10DE, DEV_0221, REV_A1, SUBSYS_040310B0
+           NVidia Unknown Device
+           Class Code : 030000 - VGA Compatible Adapter
+           Memory Base Range 0           : DE000000 - DEFFFFFF (16MB)
+           Memory Base Range 1           : C0000000 - CFFFFFFF (256MB)
+           Memory Base Range 2           : DD000000 - DDFFFFFF (16MB)
+ ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+End of report.
